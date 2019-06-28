@@ -1,0 +1,17 @@
+{
+    "name": "@gumbomillennium/stylelint",
+    "description": "Gumbo stylelint config",
+    "license": "MPL-2.0",
+    "author": {
+        "name": "Roelof Roos",
+        "email": "github@roelof.io",
+        "url": "https://github.com/roelofr"
+    },
+    "main": "./stylelint.config.js",
+    "dependencies": {
+        "stylelint": "^10.1.0",
+        "stylelint-config-recommended-scss": "^3.3.0",
+        "stylelint-order": "^3.0.0",
+        "stylelint-scss": "^3.8.0"
+    }
+}
