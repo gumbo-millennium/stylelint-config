@@ -1,18 +1,30 @@
 {
-    "name": "@gumbo-millennium/stylelint",
-    "version": "v0.1.1",
-    "description": "Stylelint config for Gumbo Millennium",
-    "license": "MPL-2.0",
-    "author": {
-        "name": "Roelof Roos",
-        "email": "github@roelof.io",
-        "url": "https://github.com/roelofr"
-    },
-    "main": "./stylelint.config.js",
-    "dependencies": {
-        "stylelint": "^10.0.0",
-        "stylelint-config-recommended-scss": "^3.0.0",
-        "stylelint-order": "^3.0.0",
-        "stylelint-scss": "^3.0.0"
-    }
+  "name": "@gumbo-millennium/stylelint",
+  "version": "0.1.2",
+  "description": "Stylelint config for Gumbo Millennium",
+  "license": "MPL-2.0",
+  "author": "Roelof Roos <github@roelof.io> (https://github.com/roelofr)",
+  "main": "./stylelint.config.js",
+  "dependencies": {
+    "stylelint": "^10.0.0",
+    "stylelint-config-recommended-scss": "^3.0.0",
+    "stylelint-order": "^3.0.0",
+    "stylelint-scss": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumbo-millennium/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/gumbo-millennium/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/gumbo-millennium/stylelint-config#readme"
 }
