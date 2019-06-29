@@ -1,6 +1,7 @@
 {
     "name": "@gumbo-millennium/stylelint",
-    "description": "Gumbo stylelint config",
+    "version": "v0.1.1",
+    "description": "Stylelint config for Gumbo Millennium",
     "license": "MPL-2.0",
     "author": {
         "name": "Roelof Roos",
@@ -9,9 +10,9 @@
     },
     "main": "./stylelint.config.js",
     "dependencies": {
-        "stylelint": "^10.1.0",
-        "stylelint-config-recommended-scss": "^3.3.0",
+        "stylelint": "^10.0.0",
+        "stylelint-config-recommended-scss": "^3.0.0",
         "stylelint-order": "^3.0.0",
-        "stylelint-scss": "^3.8.0"
+        "stylelint-scss": "^3.0.0"
     }
 }
