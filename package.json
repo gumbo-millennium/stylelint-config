@@ -1,5 +1,5 @@
 {
-  "name": "@gumbo-millennium/stylelint",
+  "name": "@gumbo-millennium/stylelint-config",
   "version": "0.1.2",
   "description": "Stylelint config for Gumbo Millennium",
   "license": "MPL-2.0",
