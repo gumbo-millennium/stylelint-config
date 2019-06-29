@@ -1,0 +1,7 @@
+# Don't export some files
+.gitattributes export-ignore
+.editorconfig export-ignore
+CHANGELOG.md export-ignore
+
+# Ignore lock file diffs
+yarn.lock binary export-ignore
